@@ -1,3 +1,3 @@
 SQLServer name SpheragCommanderAPI 
 Credenciales
-Usuario: CommanderAPI Clave: Spherag
+Usuario y clave -> la de vuestra BD
