@@ -1,0 +1,3 @@
+SQLServer name SpheragCommanderAPI 
+Credenciales
+Usuario: CommanderAPI Clave: Spherag
